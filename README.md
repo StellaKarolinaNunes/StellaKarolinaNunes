@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=942222a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Stella+Karolina;Eu+tenho+20+anos;Moro+Brazil;Faço+Faculdade+de+Ciencias+da+computação;Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
@@ -13,4 +13,4 @@
 
   ![Snake animation](https://github.com/StellaKarolinaNunes/StellaKarolinaNunes/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=942222a4&height=120&section=footer"/>
