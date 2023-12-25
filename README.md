@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=942222a4&height=120&section=header"/>
+### Olá, me chamo  Stella Karolina👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Stella+Karolina;Eu+tenho+20+anos;Moro+Brazil;Faço+Faculdade+de+Ciencias+da+computação;Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+### Sou estudante de ciência da computação no IFPA, moro Tucuruí Pa.
 
-##
+- 🔭 Futura **desenvolvedora Front-End**
+- 🌱 Atualmente estou aprendendo **Front End  e UI Design**
+- 👯 Pretendo colaborar em **Aplicativos Web e desenvolvimentos de sites**
+- 💬 Pergunte-me sobre **Flutter**
+- 📫 Como entrar em contato comigo: **Stellakarolina.peixoto@gmail.com**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StellaKarolinaNunes&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Stella Karolina github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellaKarolinaNunes&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellaKarolinaNunes&hide=html&layout=compact&theme=dracula" alt="StellaKarolinaNunes github stats">
 </div>
 
-##
 
-  ![Snake animation](https://github.com/StellaKarolinaNunes/StellaKarolinaNunes/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=942222a4&height=120&section=footer"/>
