@@ -32,9 +32,11 @@
 &nbsp;
 
 
-<div  align="" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=StellaKarolinaNunes&theme=radical&mode=weekly" />
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellaKarolinaNunes&layout=compact&theme=radical" />
+<div style="display: flex; justify-content: space-between;">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=StellaKarolinaNunes&theme=radical&mode=weekly" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellaKarolinaNunes&layout=compact&theme=radical" />
+</div>
+
 
   
 ## Contacts:
