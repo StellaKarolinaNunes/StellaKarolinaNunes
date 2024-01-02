@@ -1,7 +1,7 @@
 ### Olá, me chamo  Stella Karolina👋
 
 
-- 🔭 Futura **desenvolvedora Front-End**
+- 🔭  **ciêntista da computação**
 - 🌱 Atualmente estou aprendendo **Front End e UI Design**
 - 👯 Pretendo colaborar em **Aplicativos Web e desenvolvimentos de sites**
 - 💬 Sou **estudante de ciência da computação no IFPA**, moro **Tucuruí Pa**.
