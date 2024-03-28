@@ -6,6 +6,7 @@
 - 👯 Pretendo colaborar em **Aplicativos Web e desenvolvimentos de sites**
 - 💬 Sou **estudante de ciência da computação no IFPA**, moro **Tucuruí Pa**.
 - 📫 Como entrar em contato comigo: **Stellakarolina.peixoto@gmail.com**
+- </> https://stellakarolina.netlify.app/
 
 <div> 
 <a href="https://www.instagram.com/estellazz__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
