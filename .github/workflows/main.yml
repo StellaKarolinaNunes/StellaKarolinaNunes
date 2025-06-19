@@ -1,7 +1,7 @@
 name: generate pacman game
 
 on:
-  schedule: # Executa automaticamente a cada 24h
+  schedule: # Executa automaticamente a cada 24 horas
     - cron: "0 */24 * * *"
   workflow_dispatch: # Permite execução manual
   push: # Executa quando houver push na branch main
@@ -25,6 +25,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: output 
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
