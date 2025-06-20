@@ -1,42 +1,116 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=591215&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b4a48c&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+perfil!+^_^;Meu+nome+é+Stella+Karolina;Bacharelado+em+Ciência+da+Computação;Atualmente+aprendendo+Front-End+e+UI+/+UX+Design;LinkedIn:+stella-karolina;Email:+Stellakarolina.peixoto@gmail.com;Portfólio:+stellakarolina.netlify.app)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StellaKarolinaNunes&show_icons=true&count_private=true&hide_border=true&title_color=a4795a&icon_color=a4795a&text_color=b4a48c&bg_color=121510" alt="Stella Karolina's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellaKarolinaNunes&layout=compact&hide_border=true&title_color=a4795a&text_color=b4a48c&bg_color=121510" />
-</div>
-
-[![Stella's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StellaKarolinaNunes&bg_color=121510&color=b4a48c&line=a78670&point=a4795a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Linguagens de Programação & ferramentas
-
-![C++](https://img.shields.io/badge/-C++-121510?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-121510?style=for-the-badge&logo=csharp&logoColor=purple)
-![Python](https://img.shields.io/badge/-Python-121510?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/-Java-121510?style=for-the-badge&logo=java&logoColor=red)
-![JavaScript](https://img.shields.io/badge/-JavaScript-121510?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/-Dart-121510?style=for-the-badge&logo=dart&logoColor=0175C2)
-![PHP](https://img.shields.io/badge/-PHP-121510?style=for-the-badge&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/-HTML5-121510?style=for-the-badge&logo=html5&logoColor=E34F26) 
-![CSS3](https://img.shields.io/badge/-CSS3-121510?style=for-the-badge&logo=css3&logoColor=1572B6)  
-![Flutter](https://img.shields.io/badge/-Flutter-121510?style=for-the-badge&logo=flutter&logoColor=02569B)
-![React Native](https://img.shields.io/badge/-React%20Native-121510?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Framer](https://img.shields.io/badge/-Framer-121510?style=for-the-badge&logo=framer&logoColor=FF007D)
-![Git](https://img.shields.io/badge/-Git-121510?style=for-the-badge&logo=git&logoColor=F05032) 
-![Linux](https://img.shields.io/badge/-Linux-121510?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Figma](https://img.shields.io/badge/-Figma-121510?style=for-the-badge&logo=figma&logoColor=F24E1E) 
-![Canva](https://img.shields.io/badge/-Canva-121510?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![Jira](https://img.shields.io/badge/-Jira-121510?style=for-the-badge&logo=jira&logoColor=0052CC) 
-![Notion](https://img.shields.io/badge/-Notion-121510?style=for-the-badge&logo=notion&logoColor=FFFFFF) 
-![Trello](https://img.shields.io/badge/-Trello-121510?style=for-the-badge&logo=trello&logoColor=0079BF)
-![Netlify](https://img.shields.io/badge/-Netlify-121510?style=for-the-badge&logo=netlify&logoColor=00C7B7) 
-![Portfolio](https://img.shields.io/badge/-Portfolio-121510?style=for-the-badge&logo=githubpages&logoColor=00BFBF)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BF5E66"/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{StellaKarolinaNunes}/count.svg" /></p> 
-<br></div>
+  <samp>
+    <b>
+      コンピュータサイエンス | Computer Science
+    </b>
+      <br>
+      <p style="color:#8C6849;">
+    Hi there! I'm <strong>Stella Karolina</strong> ♡
+  </p>
+      <br>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FStellaKarolinaNunes&s=21&c=BF5E66&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=591215&height=120&section=footer"/>
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3bc3a98c-07f0-4156-9f2b-6fa4f3fd794f" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Stella_Karolina ♡-red"  />
+</div>
+
+<br>  
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=900&size=21&letterSpacing=center&duration=6000&pause=1000&color=BF5E66&width=435&lines=Bem-vindo(a)+ao+meu+perfil!++%5E_%5E;Meu+nome+%C3%A9+Stella+Karolina!!!;Estudante++curso+Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+aprendendo+Front-End+;Atualmente+aprendendo++UI+%2F+UX+Design;LinkedIn%3A+stella-karolina;lattes.cnpq.br%2F7703318171143495"
+     alt="typing intro" />
+
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Saiba Mais </b>
+      </samp>
+  </summary>
+  
+  <br>
+  <div align="left">
+
+```zsh
+> StellaKarolinaNunes
+```
+
+<table>
+  <tr>
+    </br>
+    <td width="400" valign="center" align="center">
+      <img src="https://avatars.githubusercontent.com/u/118007989?v=4" alt="StellaKarolinaNunes made by レヴィノス" width="400" style="border-radius:12px; margin-right: 24px;" />
+      <br><br>
+      <!-- Contato abaixo da imagem -->
+      <h2>📬 Contato | Contact</h2>
+      <a href="mailto:stellakarolina.peixoto@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-BF5E66?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/stella-karolina/">
+        <img src="https://img.shields.io/badge/LinkedIn-BF5E66?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="http://lattes.cnpq.br/7703318171143495/">
+        <img src="https://img.shields.io/badge/Lattes-BF5E66?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+    </td>
+    <td valign="top">
+</br>
+  
+```csharp
+stellakarolinanunes.peixoto@gmail.com
+-------------------------
+Sistema operacional: Linux
+Shell: Bash & Zsh
+Pronomes: Ela/Dela (She/Her)
+Localização: Brasil
+Bacharelado: Ciência da Computação
+Frameworks favoritos: Flutter
+Linguagens: Linux, JavaScript, Python, Dart, C++, C#, Java, PHP, HTML, CSS, Git
+Aprendendo: Design UX/UI, Flutter, React Native
+Curso Extra em andamento: Origamid
+Hobbies: Programação, Tecnologia, Game, Música, Tecnologia Assistiva, Leitura
+Matérias favoritas do bacharelado: 
+  - Cálculo
+  - Lógica Matemática
+  - Programação
+  - Sistemas Operacionais (Windows/Linux)
+  - Inteligência Computacional
+  - Interação Humano-Computador
+```
+</br>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=StellaKarolinaNunes" />
+
+</div>
+
+  </details>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF5E66&height=100&section=footer"/>
+
+
+
