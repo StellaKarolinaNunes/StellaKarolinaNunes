@@ -5,12 +5,11 @@
   <samp>
     <b>
       コンピュータサイエンス | Computer Science
-    </b>
+    </br>
       <br>
       <p style="color:#8C6849;">
     Hi there! I'm <strong>Stella Karolina</strong> ♡
   </p>
-      <br>
   </samp>
 </div>
 <div align="center">
@@ -22,8 +21,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3bc3a98c-07f0-4156-9f2b-6fa4f3fd794f" width="200">
 </div>
+</br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Stella_Karolina ♡-red"  />
+ <img src="https://img.shields.io/badge/Stella_Karolina_♡-BF4A4A?style=flat-square&logoColor=white" />
 </div>
 
 <br>  
@@ -107,8 +107,6 @@ Matérias favoritas do bacharelado:
 </div>
 
   </details>
-
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF5E66&height=100&section=footer"/>
 
