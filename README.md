@@ -13,8 +13,9 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FStellaKarolinaNunes&s=21&c=BF5E66&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 
+![Contador de visualização de perfil no GitHub](https://komarev.com/ghpvc/?username=StellaKarolinaNunes&color=BF4A4A)
+ 
 <br>
 <br>
       
@@ -29,8 +30,7 @@
 <br>  
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=900&size=21&letterSpacing=center&duration=6000&pause=1000&color=BF5E66&width=435&lines=Bem-vindo(a)+ao+meu+perfil!++%5E_%5E;Meu+nome+%C3%A9+Stella+Karolina!!!;Estudante++curso+Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+aprendendo+Front-End+;Atualmente+aprendendo++UI+%2F+UX+Design;LinkedIn%3A+stella-karolina;lattes.cnpq.br%2F7703318171143495"
-     alt="typing intro" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF5E66&repeat=false&width=435&separator=%3C&lines=void+main()+%7B%3Cprint(%22Bem+vindo+ao+meu+perfil%22);%3Cprint(%22Meu+Nome+%C3%A9+Stella+Karolina+Nunes+Peixoto%22);%3Cprint(%22Estudante+do+curso+de+Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%22);%3Cprint(%22Aprendendo+Desenvolvimento+Frontend%22);%3Cprint(%22Aprendendo+UI%2FUX+Design%22);%3Cprint(%22Aprendendo+Desenvolvimento+Flutter%22);%3Cprint(%22Aprendendo+Shell+Script%22);%3Cprint(%22Aprendendo+Banco+de+Dados%22);%7D" alt="Typing SVG" /></a>
 
 <br>
 
