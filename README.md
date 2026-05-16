@@ -5,7 +5,6 @@
     <img src="./assets/githubanner.svg" alt="Banner GitHub Stella Karolina" width="100%">
   </picture>
 </p>
-
 <p align="center">
   <a href="https://github.com/StellaKarolinaNunes?tab=repositories">
     <img alt="Repos" title="GitHub Repositories" src="https://img.shields.io/badge/Repositórios-1A1A2E?style=for-the-badge&logo=github&logoColor=white" />
