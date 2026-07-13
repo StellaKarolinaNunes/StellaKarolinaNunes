@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/UI%20%2F%20UX-1A1A2E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
  <div align="right">
-<b><font size="100">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ SOBRE MIM ✦</font></b>
+<b><font size="100">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ SOBRE MIM ✦</font></b>
    <img src="./assets/icon2.svg" width="210" align="left" style="margin-right: 20px;">
 <div align="justify">
   <br>
@@ -29,7 +29,7 @@ Estudante de <b>Ciência
 </div></div>
 <br>
  <div align="left">
-<b><font size="100">✦ MEUS PRINCIPAIS PROJETOS e SKILLS ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font></b>
+<b><font size="100">✦ MEUS PRINCIPAIS PROJETOS e SKILLS ✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font></b>
   <img src="./assets/icon.gif" width="210" align="right" style="margin-left: 20px;">
    <br> <br> <br><br>
 
@@ -48,7 +48,7 @@ Estudante de <b>Ciência
 </div>
 
  <div align="right">
-<b><font size="100">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ESTATÍSTICAS ✦</font></b>
+<b><font size="100">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦ ESTATÍSTICAS ✦</font></b>
  <br>   <br> 
  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StellaKarolinaNunes&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
